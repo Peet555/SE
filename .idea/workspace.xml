@@ -6,11 +6,20 @@
   <component name="ChangeListManager">
     <list default="true" id="9b085d3d-ced9-417b-a970-79691d0f3c57" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GumballMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HasQuarterState.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NoQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SoldOutState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SoldState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WinnerState.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721478850011</updated>
       <workItem from="1721478851109" duration="584000" />
-      <workItem from="1721653961808" duration="5772000" />
+      <workItem from="1721653961808" duration="6076000" />
     </task>
     <servers />
   </component>

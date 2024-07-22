@@ -6,7 +6,9 @@ public class SoldState extends State{
     public SoldState(GumballMachine gumballMachine) {
         this.gumballMachine = gumballMachine;
     }
-
+    /*
+        6510450429 Thanatus Suwan
+     */
     @Override
     public void insertQuarter() {
         System.out.println("Please wait, we’re already giving you a gumball");

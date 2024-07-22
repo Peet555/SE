@@ -1,5 +1,7 @@
 package org.example;
-
+/*
+    6510450429 Thanatus Suwan
+ */
 public class NoQuarterState extends State{
     GumballMachine gumballMachine;
     public NoQuarterState(GumballMachine gumballMachine) {

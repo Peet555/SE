@@ -1,5 +1,7 @@
 package org.example;
-
+/*
+    6510450429 Thanatus Suwan
+ */
 import java.util.Random;
 
 public class HasQuarterState extends State{
